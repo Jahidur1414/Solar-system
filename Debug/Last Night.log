@@ -1,0 +1,3 @@
+﻿Source.obj : error LNK2019: unresolved external symbol _glfwGetTime referenced in function "void __cdecl camera(void)" (?camera@@YAXXZ)
+C:\Users\DCL\OneDrive\Desktop\Class\Computer Grapics\Last Night\Last Night\glfw\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\DCL\OneDrive\Desktop\Class\Computer Grapics\Last Night\Debug\Last Night.exe : fatal error LNK1120: 1 unresolved externals
